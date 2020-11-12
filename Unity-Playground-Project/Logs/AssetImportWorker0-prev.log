@@ -1,0 +1,1596 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.0b6 (24a0f8b56f72) revision 2400504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 7617 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity/2D/Unity-PlayAground-2D-Game/Unity-Playground-Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58781
+Successfully changed project path to: E:/Unity/2D/Unity-PlayAground-2D-Game/Unity-Playground-Project
+E:/Unity/2D/Unity-PlayAground-2D-Game/Unity-Playground-Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0b6 (24a0f8b56f72)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity/2D/Unity-PlayAground-2D-Game/Unity-Playground-Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c91)
+    Vendor:   
+    VRAM:     2996 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56904
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002247 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 54.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.081 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005162 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 54.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.132 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 2597.
+Total: 3.426900 ms (FindLiveObjects: 0.604500 ms CreateObjectMapping: 0.140800 ms MarkObjects: 2.518400 ms  DeleteObjects: 0.161500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Examples/Roguelike
+  artifactKey: Guid(5f716945ee12a486ba89cececeae2236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Roguelike using Guid(5f716945ee12a486ba89cececeae2236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119ae2124587697c9b03ee4db31eb604') in 0.013101 seconds
+  Import took 0.019256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Examples/Football
+  artifactKey: Guid(ea609f49865b04556a6a03db31ff69fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Football using Guid(ea609f49865b04556a6a03db31ff69fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf79777c0a4f07b1bc1aac0e2c81d48c') in 0.007563 seconds
+  Import took 0.012368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Examples/Adventure
+  artifactKey: Guid(8ea5098461824490bb09fbedbf4be598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Adventure using Guid(8ea5098461824490bb09fbedbf4be598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958e615dc2c783e380378f7572968ba3') in 0.008387 seconds
+  Import took 0.013810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Documentation/Cheatsheet Images
+  artifactKey: Guid(a2e2540d0bb404d14b6d9e285d99cc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Documentation/Cheatsheet Images using Guid(a2e2540d0bb404d14b6d9e285d99cc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2e63619028092cf12ba40600ec4fa1') in 0.007973 seconds
+  Import took 0.014330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Documentation/Cheatsheets.pdf
+  artifactKey: Guid(dbbbc3691150144c8b1bb68d5b12f608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Documentation/Cheatsheets.pdf using Guid(dbbbc3691150144c8b1bb68d5b12f608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47108608fa26f31fe7402fcc07ea9510') in 0.043987 seconds
+  Import took 0.049091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Documentation/Getting Started - Unity Playground.pdf
+  artifactKey: Guid(32292cd2683b5d14ea259e9287607c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Documentation/Getting Started - Unity Playground.pdf using Guid(32292cd2683b5d14ea259e9287607c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156c4c2c454d14a14065600aa6c5538c') in 0.008501 seconds
+  Import took 0.013107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Examples/Defender
+  artifactKey: Guid(e001b76f7edb54c7e947e53a20bee9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Defender using Guid(e001b76f7edb54c7e947e53a20bee9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3211b80896bd14037052ba2b974c08c3') in 0.008509 seconds
+  Import took 0.014030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Examples/Lander
+  artifactKey: Guid(ff561de8231c146c79edb7bd1deb5add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Lander using Guid(ff561de8231c146c79edb7bd1deb5add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e0935ebe3959ecb4fcbd6a8b0723ab') in 0.008668 seconds
+  Import took 0.014823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Examples/Maze
+  artifactKey: Guid(b8df6361d1b9a4a369065768553b69dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Maze using Guid(b8df6361d1b9a4a369065768553b69dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67189cea88e2bbd5a94645cdef995443') in 0.009242 seconds
+  Import took 0.014897 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002066 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 56.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.084 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004362 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.062 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.3 MB.
+System memory in use after: 54.3 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2602.
+Total: 3.068200 ms (FindLiveObjects: 0.516600 ms CreateObjectMapping: 0.121100 ms MarkObjects: 2.307900 ms  DeleteObjects: 0.120800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 203.547710 seconds.
+  path: Assets/Prefabs/Lantern.prefab
+  artifactKey: Guid(d98b1aaf9fcde8244afef86892f45129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Lantern.prefab using Guid(d98b1aaf9fcde8244afef86892f45129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0186d93cbcc22d5d10192e2e5278301f') in 0.025531 seconds
+  Import took 0.031274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.585312 seconds.
+  path: Assets/Prefabs/UserInterface.prefab
+  artifactKey: Guid(0f6ae8712879c4f40bf6af3fe490badd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UserInterface.prefab using Guid(0f6ae8712879c4f40bf6af3fe490badd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12246439b61ecd179240f60c44fcf0c') in 0.031806 seconds
+  Import took 0.039725 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002197 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 61.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.157 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004318 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.082 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.5 MB.
+System memory in use after: 54.5 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2607.
+Total: 3.047400 ms (FindLiveObjects: 0.497600 ms CreateObjectMapping: 0.083700 ms MarkObjects: 2.315200 ms  DeleteObjects: 0.149600 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002470 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.314 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004876 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.210 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.6 MB.
+System memory in use after: 54.6 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2612.
+Total: 4.242400 ms (FindLiveObjects: 0.560000 ms CreateObjectMapping: 0.118800 ms MarkObjects: 3.407700 ms  DeleteObjects: 0.154000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002168 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 61.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.259 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004484 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.237 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.7 MB.
+System memory in use after: 54.7 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2617.
+Total: 3.495200 ms (FindLiveObjects: 0.825800 ms CreateObjectMapping: 0.175700 ms MarkObjects: 2.345800 ms  DeleteObjects: 0.146300 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002083 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.300 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004467 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.300 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.8 MB.
+System memory in use after: 54.8 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2622.
+Total: 3.535100 ms (FindLiveObjects: 0.871900 ms CreateObjectMapping: 0.108100 ms MarkObjects: 2.407300 ms  DeleteObjects: 0.146100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 597.725295 seconds.
+  path: Assets/Prefabs/BG_Space.prefab
+  artifactKey: Guid(6cff2f32b606e8247b59643156a3c79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BG_Space.prefab using Guid(6cff2f32b606e8247b59643156a3c79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26eb0c004dedd03cf691bba72c2fcf2c') in 0.023998 seconds
+  Import took 0.030724 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002051 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 63.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.379 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004277 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.343 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.9 MB.
+System memory in use after: 54.9 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2627.
+Total: 3.766200 ms (FindLiveObjects: 0.960600 ms CreateObjectMapping: 0.190700 ms MarkObjects: 2.460800 ms  DeleteObjects: 0.152000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 221.660411 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid3.prefab
+  artifactKey: Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid3.prefab using Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '673d1095475371043fcbc86d263c89c7') in 0.016328 seconds
+  Import took 0.022380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.661962 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid3.prefab
+  artifactKey: Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid3.prefab using Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b610da4bf0f0fcd1a0cc5be5369b033') in 0.005707 seconds
+  Import took 0.011754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006343 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid3.prefab
+  artifactKey: Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid3.prefab using Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b610da4bf0f0fcd1a0cc5be5369b033') in 0.006320 seconds
+  Import took 0.011422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.490812 seconds.
+  path: Assets/_INTERNAL_/Resources/Textures/Blue.png
+  artifactKey: Guid(f89eac36084a1419997f84f5ab806f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_INTERNAL_/Resources/Textures/Blue.png using Guid(f89eac36084a1419997f84f5ab806f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92afb477fe50673a9438cfd8a5a535a8') in 0.127722 seconds
+  Import took 0.133394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003604 seconds.
+  path: Assets/_INTERNAL_/Resources/Textures/Blue.png
+  artifactKey: Guid(f89eac36084a1419997f84f5ab806f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_INTERNAL_/Resources/Textures/Blue.png using Guid(f89eac36084a1419997f84f5ab806f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92afb477fe50673a9438cfd8a5a535a8') in 0.011146 seconds
+  Import took 0.016719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.652203 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid3.prefab
+  artifactKey: Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid3.prefab using Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11cfe5d2dc2397b6b6f62e5684f5cff') in 0.005567 seconds
+  Import took 0.011829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013345 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid3.prefab
+  artifactKey: Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid3.prefab using Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11cfe5d2dc2397b6b6f62e5684f5cff') in 0.005599 seconds
+  Import took 0.010602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.168448 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid3.prefab
+  artifactKey: Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid3.prefab using Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '520446924488d3ee5d7838656fb7704a') in 0.005116 seconds
+  Import took 0.012034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012399 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid3.prefab
+  artifactKey: Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid3.prefab using Guid(895adafbb46fc9042be25f4d3bcd3bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '520446924488d3ee5d7838656fb7704a') in 0.005196 seconds
+  Import took 0.010791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.499973 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ec84020ae4beba9dd0c5f5935f9fd6') in 0.008788 seconds
+  Import took 0.014542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f4cb49d3c43496d8d4037d6828456b') in 0.011517 seconds
+  Import took 0.016554 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002229 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 59.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.438 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004371 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.470 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.9 MB.
+System memory in use after: 57.9 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2638.
+Total: 3.143900 ms (FindLiveObjects: 0.525600 ms CreateObjectMapping: 0.093900 ms MarkObjects: 2.380500 ms  DeleteObjects: 0.142600 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002111 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 57.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.506 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005006 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.420 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.0 MB.
+System memory in use after: 58.0 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2643.
+Total: 3.387900 ms (FindLiveObjects: 0.607700 ms CreateObjectMapping: 0.122200 ms MarkObjects: 2.501600 ms  DeleteObjects: 0.154500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 313.377327 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid2.prefab
+  artifactKey: Guid(9ad0e70fd2aec754eb54abccff7db5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid2.prefab using Guid(9ad0e70fd2aec754eb54abccff7db5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e3c5e66cd06720d1b653a6ef9de9f3') in 0.022172 seconds
+  Import took 0.028012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002790 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid2.prefab
+  artifactKey: Guid(9ad0e70fd2aec754eb54abccff7db5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid2.prefab using Guid(9ad0e70fd2aec754eb54abccff7db5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e3c5e66cd06720d1b653a6ef9de9f3') in 0.005318 seconds
+  Import took 0.010534 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002318 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 55.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.611 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004576 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.560 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.1 MB.
+System memory in use after: 58.1 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2648.
+Total: 3.624500 ms (FindLiveObjects: 0.564600 ms CreateObjectMapping: 0.096000 ms MarkObjects: 2.807000 ms  DeleteObjects: 0.155300 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002163 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 63.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.660 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004293 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.708 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.2 MB.
+System memory in use after: 58.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2653.
+Total: 4.664600 ms (FindLiveObjects: 0.985700 ms CreateObjectMapping: 0.274500 ms MarkObjects: 3.216200 ms  DeleteObjects: 0.185200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 520.899231 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95676f186220c9ca709b5f1cbce18653') in 0.014933 seconds
+  Import took 0.020935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001354 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95676f186220c9ca709b5f1cbce18653') in 0.003466 seconds
+  Import took 0.009375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.237483 seconds.
+  path: Assets/Scenes/Level1 1.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1 1.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9fa7f13ddb439528392f7494795edba') in 0.009367 seconds
+  Import took 0.015227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.923016 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7387a26f34ffd443000faeeea2058e86') in 0.009536 seconds
+  Import took 0.015506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.096733 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a03c5c2586de252a68b9f59d0139640') in 0.010635 seconds
+  Import took 0.016006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001250 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a03c5c2586de252a68b9f59d0139640') in 0.004076 seconds
+  Import took 0.011301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.605944 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f1c6d66cc2a9cf1a504735eed2c2f3a') in 0.004502 seconds
+  Import took 0.010639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.145913 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa08a8cb683c8881c61241a77d6c66be') in 0.004095 seconds
+  Import took 0.010549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.273934 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ffc828d64a0629dfdb6a3543a75da2') in 0.003767 seconds
+  Import took 0.009796 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002199 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.641 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004260 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.652 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.3 MB.
+System memory in use after: 58.3 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2658.
+Total: 4.695800 ms (FindLiveObjects: 0.980200 ms CreateObjectMapping: 0.102700 ms MarkObjects: 3.418000 ms  DeleteObjects: 0.192000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002217 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 72.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.828 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005266 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.701 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.5 MB.
+System memory in use after: 58.5 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2663.
+Total: 5.046500 ms (FindLiveObjects: 0.743800 ms CreateObjectMapping: 0.219400 ms MarkObjects: 3.944100 ms  DeleteObjects: 0.137600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 333.968902 seconds.
+  path: Assets/Prefabs/Player/Player.prefab
+  artifactKey: Guid(e571734fb96dc43408ec2583f8e0de54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/Player.prefab using Guid(e571734fb96dc43408ec2583f8e0de54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf638f2cbee2af790c74cc306fdfc9a') in 0.026866 seconds
+  Import took 0.033805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.479564 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid5.prefab
+  artifactKey: Guid(d34fced875613a14cb4eb106460356cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid5.prefab using Guid(d34fced875613a14cb4eb106460356cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008ab578a99baf02d7ff7983d54f2be5') in 0.010732 seconds
+  Import took 0.018804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004765 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid5.prefab
+  artifactKey: Guid(d34fced875613a14cb4eb106460356cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid5.prefab using Guid(d34fced875613a14cb4eb106460356cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008ab578a99baf02d7ff7983d54f2be5') in 0.005005 seconds
+  Import took 0.010192 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002073 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.788 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004243 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.762 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.6 MB.
+System memory in use after: 58.6 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2668.
+Total: 3.297600 ms (FindLiveObjects: 0.552800 ms CreateObjectMapping: 0.091700 ms MarkObjects: 2.501100 ms  DeleteObjects: 0.150400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 193.243440 seconds.
+  path: Assets/Prefabs/Asteroids/Asteroid2.prefab
+  artifactKey: Guid(9ad0e70fd2aec754eb54abccff7db5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids/Asteroid2.prefab using Guid(9ad0e70fd2aec754eb54abccff7db5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158c2c5d7fca0a4f4045383194b2ccd7') in 0.019185 seconds
+  Import took 0.027050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.932320 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb7f844651170bdf4da751e53fb04f88') in 0.003936 seconds
+  Import took 0.009497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012910 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb7f844651170bdf4da751e53fb04f88') in 0.003843 seconds
+  Import took 0.008900 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002816 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 59.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.937 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005807 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.825 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.7 MB.
+System memory in use after: 58.7 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2673.
+Total: 3.396100 ms (FindLiveObjects: 0.502300 ms CreateObjectMapping: 0.098500 ms MarkObjects: 2.641500 ms  DeleteObjects: 0.151900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 350.515849 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd93a1f23390c00082fbbe456209bd666') in 0.019012 seconds
+  Import took 0.024331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.386951 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edaca79dfec7da1cbc209bcbd39d17d0') in 0.005193 seconds
+  Import took 0.010500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.763277 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e909beea467940248ca3666199e56d5') in 0.004336 seconds
+  Import took 0.010056 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002215 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.915 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004358 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.958 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2678.
+Total: 4.143300 ms (FindLiveObjects: 0.567900 ms CreateObjectMapping: 0.098000 ms MarkObjects: 3.304000 ms  DeleteObjects: 0.171200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.712978 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843b8c7c4fc7fd7b14abd2cd840c8871') in 0.012923 seconds
+  Import took 0.019511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.117895 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd68983c25e1af6ddc574b7add139862e') in 0.004219 seconds
+  Import took 0.009616 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002971 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 62.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.986 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004406 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.974 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.0 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2683.
+Total: 3.072100 ms (FindLiveObjects: 0.514600 ms CreateObjectMapping: 0.081800 ms MarkObjects: 2.334900 ms  DeleteObjects: 0.139400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.552034 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36eae7aa1d3ee0c125980e2393440e0f') in 0.012450 seconds
+  Import took 0.018372 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002639 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 61.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.057 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004884 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.991 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.1 MB.
+System memory in use after: 59.1 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2688.
+Total: 3.297000 ms (FindLiveObjects: 0.622200 ms CreateObjectMapping: 0.130300 ms MarkObjects: 2.388800 ms  DeleteObjects: 0.154000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.824756 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b74edc30e4a375916fa0945ef6fbaeb8') in 0.011111 seconds
+  Import took 0.017722 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002184 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 58.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.105 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004434 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.048 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.2 MB.
+System memory in use after: 59.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2693.
+Total: 3.282100 ms (FindLiveObjects: 0.558100 ms CreateObjectMapping: 0.093500 ms MarkObjects: 2.461500 ms  DeleteObjects: 0.167600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.166554 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d9bfeb79366a3224c6775e5ba8a1e0c') in 0.012030 seconds
+  Import took 0.017578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011737 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d9bfeb79366a3224c6775e5ba8a1e0c') in 0.004547 seconds
+  Import took 0.009808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.120585 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2220da0da39eb2158f4d3e0155e4f094') in 0.004383 seconds
+  Import took 0.010049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.709262 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0156355aa417638914ac2cde2d09609c') in 0.003821 seconds
+  Import took 0.009148 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002447 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 61.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.568 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006104 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.230 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.3 MB.
+System memory in use after: 59.4 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2698.
+Total: 7.144200 ms (FindLiveObjects: 2.450900 ms CreateObjectMapping: 0.426900 ms MarkObjects: 4.094700 ms  DeleteObjects: 0.168100 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003099 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 90.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.552 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004430 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.581 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.4 MB.
+System memory in use after: 59.5 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2703.
+Total: 5.677500 ms (FindLiveObjects: 1.860500 ms CreateObjectMapping: 0.219300 ms MarkObjects: 3.370300 ms  DeleteObjects: 0.223700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.341777 seconds.
+  path: Assets/Examples/Football/BouncyMaterial.physicsMaterial2D
+  artifactKey: Guid(40a7146b1a2ec49779a9976ba61b8bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Football/BouncyMaterial.physicsMaterial2D using Guid(40a7146b1a2ec49779a9976ba61b8bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4755b33d85174f2a844185aa069d6d48') in 0.019782 seconds
+  Import took 0.025313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000699 seconds.
+  path: Assets/Examples/Football/Football.unity
+  artifactKey: Guid(8b655b0fb8d8c4758a154fd99dc41447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Football/Football.unity using Guid(8b655b0fb8d8c4758a154fd99dc41447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da52084645a9491e5f63081aa07e0952') in 0.009541 seconds
+  Import took 0.014733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Examples/Football/BouncyMaterial.physicsMaterial2D
+  artifactKey: Guid(40a7146b1a2ec49779a9976ba61b8bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Football/BouncyMaterial.physicsMaterial2D using Guid(40a7146b1a2ec49779a9976ba61b8bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4755b33d85174f2a844185aa069d6d48') in 0.003708 seconds
+  Import took 0.009100 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002030 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 56.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.261 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004821 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.245 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.5 MB.
+System memory in use after: 59.6 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2708.
+Total: 3.490500 ms (FindLiveObjects: 0.578900 ms CreateObjectMapping: 0.103900 ms MarkObjects: 2.654700 ms  DeleteObjects: 0.151600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.022959 seconds.
+  path: Assets/Images/Spaceships/SpaceshipRed.png
+  artifactKey: Guid(ab72467e062206645b32971dc962d595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Spaceships/SpaceshipRed.png using Guid(ab72467e062206645b32971dc962d595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b246876e4112da74f0ceef95fb668262') in 0.085014 seconds
+  Import took 0.090341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.006965 seconds.
+  path: Assets/Examples/Roguelike/CoinResource.prefab
+  artifactKey: Guid(5f5ddfd26659d48d89d2c954d8e4a5e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Roguelike/CoinResource.prefab using Guid(5f5ddfd26659d48d89d2c954d8e4a5e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc76ed882d7e412dd4953958e245a3a4') in 0.048357 seconds
+  Import took 0.053500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Examples/Roguelike/Key.prefab
+  artifactKey: Guid(5d5478520145643cbafc7b73d9840153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Roguelike/Key.prefab using Guid(5d5478520145643cbafc7b73d9840153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f29f07efa0f5d03e84962c4f27a33bc') in 0.024888 seconds
+  Import took 0.031861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Examples/Roguelike/Ground.prefab
+  artifactKey: Guid(4690e19586361409d9e45c5eb8398713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Roguelike/Ground.prefab using Guid(4690e19586361409d9e45c5eb8398713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c77beafc4072de4af9ead33842c4933c') in 0.010602 seconds
+  Import took 0.016450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Examples/Roguelike/Roguelike.unity
+  artifactKey: Guid(ad15a26015e49439387b05c22fe7a962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Roguelike/Roguelike.unity using Guid(ad15a26015e49439387b05c22fe7a962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e357946df87291bf69f64fef299d7f7') in 0.009147 seconds
+  Import took 0.014749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Examples/Roguelike/StoneBlock.prefab
+  artifactKey: Guid(668b8fc622d7e49e8bd9fa5621a7d6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Roguelike/StoneBlock.prefab using Guid(668b8fc622d7e49e8bd9fa5621a7d6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256067b811a0f1f91cd00b1e58e6d47a') in 0.032644 seconds
+  Import took 0.039276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003849 seconds.
+  path: Assets/Examples/Roguelike/StoneBlock.prefab
+  artifactKey: Guid(668b8fc622d7e49e8bd9fa5621a7d6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Roguelike/StoneBlock.prefab using Guid(668b8fc622d7e49e8bd9fa5621a7d6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256067b811a0f1f91cd00b1e58e6d47a') in 0.017976 seconds
+  Import took 0.023320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.064378 seconds.
+  path: Assets/Examples/Lander/Lander.unity
+  artifactKey: Guid(3925160d1efe749d5a026cbf18c60f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Lander/Lander.unity using Guid(3925160d1efe749d5a026cbf18c60f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '340b5ee898be9825e427b002136d890d') in 0.008173 seconds
+  Import took 0.014684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.454212 seconds.
+  path: Assets/Examples/Adventure/Tiles
+  artifactKey: Guid(d39497cb26203404097823a4ea9d5223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Adventure/Tiles using Guid(d39497cb26203404097823a4ea9d5223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549c8aef3a0d5e3c652e53f9e84c044e') in 0.007498 seconds
+  Import took 0.013487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Examples/Adventure/StarCollectable.prefab
+  artifactKey: Guid(62bf5f4c55a554355bb7f0b398f8620c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Adventure/StarCollectable.prefab using Guid(62bf5f4c55a554355bb7f0b398f8620c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f392cc3876a0d13aa7041cbc6902766d') in 0.025772 seconds
+  Import took 0.032578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Examples/Adventure/TilePalette.prefab
+  artifactKey: Guid(5cdc13984823c0a42851f8fe0ae2e7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Adventure/TilePalette.prefab using Guid(5cdc13984823c0a42851f8fe0ae2e7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dcaf89abfbeef068f2db4e569ea413b') in 0.013423 seconds
+  Import took 0.020252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Examples/Adventure/Adventure.unity
+  artifactKey: Guid(f723b1979947445779b87ef7a1089a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Adventure/Adventure.unity using Guid(f723b1979947445779b87ef7a1089a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ae9aec20b7a39bf5d5e7767317ed8d') in 0.008901 seconds
+  Import took 0.014890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Examples/Adventure/Bee.prefab
+  artifactKey: Guid(2003e2b60d20b4e5ea512bd20b9cdd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/Adventure/Bee.prefab using Guid(2003e2b60d20b4e5ea512bd20b9cdd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9390cd6ee46f04631e8137159abd0d1a') in 0.036555 seconds
+  Import took 0.042209 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002215 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 66.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.356 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004280 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.297 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.6 MB.
+System memory in use after: 59.7 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2720.
+Total: 3.270300 ms (FindLiveObjects: 0.543400 ms CreateObjectMapping: 0.095600 ms MarkObjects: 2.478200 ms  DeleteObjects: 0.151700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 251.373515 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f353320f0025c7037cf2503a9c993b7') in 0.017640 seconds
+  Import took 0.023993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005452 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f353320f0025c7037cf2503a9c993b7') in 0.003621 seconds
+  Import took 0.008929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.218206 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '092a4a3363513dca11ddf4b8a92c25bb') in 0.008810 seconds
+  Import took 0.014696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.843198 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(b46a8436defe4bb45aa723d4e706d782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be5372e2c63ff49dd7690efaf16f3823') in 0.004534 seconds
+  Import took 0.011252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.748475 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a794192a4096d014888480b3cfc687a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb1bbe99d327a557360b191d17481924') in 0.003993 seconds
+  Import took 0.009506 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003246 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 84.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.209 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.019117 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: E:\Unity\2D\Unity-PlayAground-2D-Game\Unity-Playground-Project\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.200 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2725.
+Total: 4.572000 ms (FindLiveObjects: 1.078900 ms CreateObjectMapping: 0.288600 ms MarkObjects: 3.060900 ms  DeleteObjects: 0.139900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
